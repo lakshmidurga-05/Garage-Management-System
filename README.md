@@ -7,6 +7,7 @@ Implementation Details
 2.Reports and Dashboards
 3.Automations
 
-Conclusion
+Conclusion: 
+
 The Garage Management System (GMS) developed on Salesforce successfully streamlined garage operations by automating service scheduling, inventory management, and customer interactions. By leveraging Salesforce’s capabilities, the system helped improve overall efficiency, reduce delays, and enhance customer satisfaction. The project laid a strong foundation for future enhancements like advanced analytics and mobile app development, enabling further scalability and improvement.
 
